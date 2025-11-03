@@ -3,7 +3,7 @@ description: Suica Viewer - Flutter port of the FeliCa IC card reader
 version: 1.0.0+1
 
 environment:
-  sdk: ^3.0.0
+  sdk: ^3.8.0
   flutter: ">=3.0.0"
 
 dependencies:
